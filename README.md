@@ -1,3 +1,3 @@
-# Android-Tab-Layout
+# Android Tab Layout
 
-###TabLayout provides a horizontal layout to display tabs.
+### TabLayout provides a horizontal layout to display tabs.
